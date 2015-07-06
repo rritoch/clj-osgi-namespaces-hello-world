@@ -1,8 +1,8 @@
 (defproject clj-osgi-namespaces-hello-world "0.1.0-SNAPSHOT"
   :description "Clojure OSGI Namespaces Hello World"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :url "https://github.com/rritoch/clj-osgi-namespaces-hello-world"
+  :license {:name "MIT License"
+            :url "http://opensource.org/licenses/MIT"}
   :source-paths ["src/main/clojure"]
   :java-source-paths ["src/main/java"]  ; Java source is stored separately.
   :test-paths ["test" "src/test/clojure"]

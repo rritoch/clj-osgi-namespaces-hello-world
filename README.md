@@ -2,7 +2,11 @@
 
 A Clojure library designed to demonstrate clj-osgi-namespaces capabilities
 
+See: [clj-osgi-namespaces](https://github.com/rritoch/clj-osgi-namespaces)
+
 ## Usage
+
+Generate the hello world OSGI bundle.
 
 ```lein uberjar```
 
@@ -10,7 +14,6 @@ Place generated bundle from target/ folder into your OSGI autoload (bundles/) fo
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Ralph Ritoch
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License
